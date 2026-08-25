@@ -10,3 +10,5 @@ I am a researcher working on freshwater ecology,
 phytoplankton and ecological modelling.
 
 Contents coming soon...
+
+**This site is now powered by Quarto!**
