@@ -1,0 +1,11 @@
+---
+title: "Pálffy Károly weboldala"
+lang: hu
+---
+## SZERKESZTÉS ALATT
+# Üdvözlöm!
+
+Ez a személyes honlapom.
+
+Kutatóként édesvízi ökológiával, fitoplanktonnal
+és ökológiai modellezéssel foglalkozom.

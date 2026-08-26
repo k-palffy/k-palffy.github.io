@@ -1,0 +1,9 @@
+---
+title: "Rólam"
+lang: hu
+---
+
+# Rólam
+
+Édesvízi ökológiával és ökológiai modellezéssel
+foglalkozó kutató vagyok.

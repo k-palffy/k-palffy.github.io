@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Pálffy Károly weboldala"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Kezdőlap
+      - href: about.qmd
+        text: Rólam
+
+    right:
+      - text: "English"
+        href: "#"
+
+format:
+  html:
+    theme: cosmo
+    include-after-body:
+      text: |
+        <script src="language-switch.js"></script>
