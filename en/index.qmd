@@ -1,5 +1,6 @@
 ---
 title: "Károly Pálffy's website"
+lang: en
 ---
 ## UNDER CONSTRUCTION
 # Welcome

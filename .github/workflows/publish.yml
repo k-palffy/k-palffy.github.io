@@ -22,8 +22,19 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render website
+      - name: Render English website
+        working-directory: en
         run: quarto render
+
+      - name: Render Hungarian website
+        working-directory: hu
+        run: quarto render
+
+      - name: Assemble website
+        run: |
+          mkdir -p _site/en _site/hu
+          cp -r en/_site/* _site/en/
+          cp -r hu/_site/* _site/hu/
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
