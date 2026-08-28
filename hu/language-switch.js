@@ -7,12 +7,9 @@ document.addEventListener("DOMContentLoaded", function () {
         event.preventDefault();
 
         const path = window.location.pathname;
+        const page = path.substring(path.lastIndexOf("/") + 1) || "index.html";
 
-        if (path.includes("/hu/")) {
-          window.location.href = path.replace("/hu/", "/en/");
-        } else {
-          window.location.href = "/en/index.html";
-        }
+        window.location.href = "/" + page;
       });
     }
   });

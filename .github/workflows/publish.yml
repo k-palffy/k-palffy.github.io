@@ -23,7 +23,6 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render English website
-        working-directory: en
         run: quarto render
 
       - name: Render Hungarian website
@@ -32,8 +31,7 @@ jobs:
 
       - name: Assemble website
         run: |
-          mkdir -p _site/en _site/hu
-          cp -r en/_site/* _site/en/
+          mkdir -p _site/hu
           cp -r hu/_site/* _site/hu/
 
       - name: Configure GitHub Pages
