@@ -10,6 +10,8 @@ website:
         text: Kezdőlap
       - href: about.qmd
         text: Rólam
+      - href: posts.qmd
+        text: Posztok
 
     right:
       - text: "English"
