@@ -1,0 +1,8 @@
+---
+title: "Minta szakmai poszt"
+date: 2026-08-29
+categories: [Szakmai]
+lang: hu
+---
+
+Csak teszt...

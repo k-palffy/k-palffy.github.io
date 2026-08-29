@@ -1,0 +1,8 @@
+---
+title: "Sample popular science post"
+date: 2026-08-28
+categories: [Popular Science]
+lang: en
+---
+
+For testing only...

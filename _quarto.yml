@@ -2,6 +2,10 @@ project:
   type: website
   resources:
     - language-switch.js
+  render:
+    - "*.qmd"
+    - "posts/"
+    - "!hu/"
 
 website:
   title: "Károly Pálffy's website"

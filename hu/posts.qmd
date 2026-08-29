@@ -1,4 +1,12 @@
 ---
 title: "Posztok"
 lang: hu
+listing:
+  contents: posts
+  type: table
+  categories: true
+  sort: "date desc"
+  fields: [date, title, categories]
+  feed: false
+page-layout: full
 ---

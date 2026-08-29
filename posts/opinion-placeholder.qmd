@@ -1,0 +1,8 @@
+---
+title: "Sample opinion post"
+date: 2026-08-27
+categories: [Opinion]
+lang: en
+---
+
+For testing only...
