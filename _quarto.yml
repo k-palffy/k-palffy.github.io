@@ -25,7 +25,9 @@ website:
         
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, custom.scss]
+      dark: darkly
     include-after-body:
       text: |
         <script src="language-switch.js"></script>

@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+
+// Warm ivory page background
+$body-bg: #faf7f2;
+
+// Pale, muted blue for the navbar / page heading bar
+$navbar-bg: #d9e6ee;
+$navbar-fg: #2c3e50;
+
+/*-- scss:rules --*/
+
+// Slightly deeper muted blue for page/section headings,
+// to tie them visually to the navbar accent
+h1, h2 {
+  color: #3b6d8c;
+}
