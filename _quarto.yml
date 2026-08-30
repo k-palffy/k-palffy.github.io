@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - language-switch.js
+    - files/Karoly_Palffy_CV.pdf
   render:
     - "*.qmd"
     - "posts/"
