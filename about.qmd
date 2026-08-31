@@ -1,12 +1,20 @@
 ---
-title: "About"
+title: "About me"
 lang: en
 ---
 
-# About me
 
-I am a researcher interested in freshwater ecology,
-phytoplankton dynamics and ecological modelling.
+I am a researcher interested in freshwater ecology, phytoplankton dynamics and functioning,
+ecological modelling and data science in general. I currently work at the [Balaton Limnological Research Institute](https://www.blki.hun-ren.hu/en).
+
+See my profile on:
+
+* [my employer's homepage](https://www.blki.hun-ren.hu/en/node/15734)
+* [LinkedIn](https://linkedin.com/in/karoly-palffy-81a82390)
+* [GitHub](https://github.com/k-palffy)
+* [Google Scholar](https://scholar.google.hu/citations?hl=hu&pli=1&user=Sjzm38EAAAAJ)
+* [ORCID](https://orcid.org/0000-0003-2015-7972)
+* [ResearchGate](https://www.researchgate.net/profile/Karoly-Palffy)
 
 ```{=html}
 <div class="mb-3">

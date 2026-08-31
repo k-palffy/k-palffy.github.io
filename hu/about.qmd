@@ -3,7 +3,40 @@ title: "Rólam"
 lang: hu
 ---
 
-# Rólam
 
 Édesvízi ökológiával és ökológiai modellezéssel
-foglalkozó kutató vagyok.
+foglalkozó kutató vagyok. Jelenleg a [Balatoni Limnológiai Kutatóintézetben](https://www.blki.hun-ren.hu) dolgozom.
+
+Elérhetőségeim:
+
+* [munkahelyem honlapján](https://www.blki.hun-ren.hu/node/15734)
+* [LinkedIn](https://linkedin.com/in/karoly-palffy-81a82390)
+* [GitHub](https://github.com/k-palffy)
+* [Google Scholar](https://scholar.google.hu/citations?hl=hu&pli=1&user=Sjzm38EAAAAJ)
+* [ORCID](https://orcid.org/0000-0003-2015-7972)
+* [ResearchGate](https://www.researchgate.net/profile/Karoly-Palffy)
+
+```{=html}
+<div class="mb-3">
+  <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#cvModal">
+    Angol nyelvű önéletrajz
+  </button>
+  <a href="../files/Karoly_Palffy_CV.pdf" target="_blank" rel="noopener noreferrer" class="ms-2">
+    (megnyitás új lapon)
+  </a>
+</div>
+
+<div class="modal fade" id="cvModal" tabindex="-1" aria-labelledby="cvModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-xl modal-fullscreen-sm-down">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="cvModalLabel">Önéletrajz</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Bezárás"></button>
+      </div>
+      <div class="modal-body p-0">
+        <embed src="../files/Karoly_Palffy_CV.pdf" type="application/pdf" style="width:100%; height:80vh;">
+      </div>
+    </div>
+  </div>
+</div>
+```
