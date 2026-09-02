@@ -1,11 +1,13 @@
 ---
-title: "Pálffy Károly weboldala"
 lang: hu
 ---
-## SZERKESZTÉS ALATT
-# Üdvözlöm!
 
-Ez a személyes honlapom.
+![](../images/lake-balaton-dusk.jpg){fig-alt="A Balaton alkonyatkor"}
 
-Kutatóként édesvízi ökológiával, fitoplanktonnal
-és ökológiai modellezéssel foglalkozom.
+# Üdv a honlapomon!
+
+Környezetmérnöki háttérű kutatóként édesvízi ökológiával, fitoplanktonnal és ökológiai modellezéssel foglalkozom.
+Azzal a céllal hoztam létre ezt a honlapot, hogy a munkámhoz és szakmai érdeklődésemhez kapcsolódó posztokon keresztül
+érthetőbbé tegyem a tudományos gondolkodás és az adatok szerepét korunk környezeti kihívásainak értelmezésében.
+
+Érdemi tartalom hamarosan...

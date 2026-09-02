@@ -1,15 +1,14 @@
 ---
-title: "Károly Pálffy's website"
 lang: en
 ---
-## UNDER CONSTRUCTION
+
+![](images/lake-balaton-dusk.jpg){fig-alt="Lake Balaton at dusk"}
+
 # Welcome
 
-This is my personal website.
-
-I am a researcher working on freshwater ecology,
-phytoplankton and ecological modelling.
+I am a researcher with an environmental engineering background,
+working on freshwater ecology, phytoplankton and ecological modelling.
+I created this site to share how scientific thinking and data can help make sense of environmental issues,
+through posts shaped by my work and interests.
 
 Contents coming soon...
-
-**This site is now powered by Quarto!**
