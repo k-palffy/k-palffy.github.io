@@ -3,6 +3,7 @@ title: "Rólam"
 lang: hu
 ---
 
+![](../images/profile_pic.jpg){fig-alt="Profilkép" width="50%" fig-align="left"}
 
 Édesvízi ökológiával és ökológiai modellezéssel
 foglalkozó kutató vagyok. Jelenleg a [Balatoni Limnológiai Kutatóintézetben](https://www.blki.hun-ren.hu) dolgozom.
@@ -15,6 +16,8 @@ Elérhetőségeim:
 * [Google Scholar](https://scholar.google.hu/citations?hl=hu&pli=1&user=Sjzm38EAAAAJ)
 * [ORCID](https://orcid.org/0000-0003-2015-7972)
 * [ResearchGate](https://www.researchgate.net/profile/Karoly-Palffy)
+
+...és egy hobbi: [fotózás](https://www.flickr.com/people/203685175@N03/)
 
 ```{=html}
 <div class="mb-3">

@@ -1,0 +1,20 @@
+---
+title: "What is the impact of long-term warming on phytoplankton functioning in large shallow lakes? - A dynamic modelling study"
+date: 2026-10-20
+categories: [Professional]
+lang: en
+---
+
+Global warming has become one of the most pressing issues of our era, leading to a tremendous increase in research focused on its anticipated impacts. While a large number of ecological studies report changes in ecosystem/community structure in response to warming, a more crucial question is **what modifications can this long-term trend elicit in ecosystem functions and associated processes**. Temperate shallow lakes are definitely among the systems that are particularly sensitive to these changes.
+
+![Changes in lake summer surface temperatures from 1985 to 2009. Source: Figure 1 of O'Reilly et al., 2015, Geophys. Res. Lett., 42, 10,773–10,781, doi:[10.1002/2015GL066235](https://doi.org/10.1002/2015GL066235)](/images/oreilly_2015_fig1.jpg){width="80%"}
+
+In my [recent paper](), I had a simple question: if climate change is causing compositional changes and phenological shifts in phytoplakton, what repercussions can be expected in the functioning of these communities? How do phytoplakton respond to these changes in shallow lakes, and how can that affect ecosystem processes?
+
+The ever-changing interactions between phytoplankton dynamics, phytoplankton-mediated ecosystem processes and the environment are constantly shaped by a multitude of mechanistic links. Providing nutrients and energy for higher trophic levels is a fundamental ecosystem function of algae in aquatic systems. As both temperature and nutrient availability strongly and interactively influence algal growth (and hence the rate of nutrient uptake), it is a fair assumption that **a long-term rise in temperature can alter phytoplankton-mediated nutrient fluxes**. The problem is that climate change also affects annual temperature patterns, thus, any warming-induced impact is difficult to assess without **seasonality** taken into account, especially in the temperate zone. A further challenge is the **species-specific** nature of algal growth curves along environmental gradients, adding **significant variation** to community-level functional responses. Moreover, despite their undeniable importance, traditional field and experimental studies have limitations that make them inadequate to fully understand changes in ecosystem-level processes. This is where dynamic modelling can become a highly useful tool.
+
+My study builds on our previous paper using a multispecies, multi-nutrient numerical model ([Pálffy & Smeti, 2024, Limnol. Oceanogr., 69: 1056-1069.](https://doi.org/10.1002/lno.12548)). The model was used to run simulations with randomly assembled phytoplankton communities over an annual cycle, under various nitrogen and phosphorus load combinations at four different annual temperature patterns.
+
+![Schematic setup of the simulations](/images/Fig_1.jpg){width="90%"}
+
+
