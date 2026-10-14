@@ -1,8 +1,0 @@
----
-title: "Hogy reagál a fitoplankton a hosszútávú melegedésre?"
-date: 2026-08-29
-categories: [Szakmai]
-lang: hu
----
-
-A klímaváltozás jelei mára egyértelművé váltak...

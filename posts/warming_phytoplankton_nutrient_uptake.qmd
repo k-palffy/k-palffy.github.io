@@ -11,10 +11,58 @@ Global warming has become one of the most pressing issues of our era, leading to
 
 In my [recent paper](), I had a simple question: if climate change is causing compositional changes and phenological shifts in phytoplakton, what repercussions can be expected in the functioning of these communities? How do phytoplakton respond to these changes in shallow lakes, and how can that affect ecosystem processes?
 
-The ever-changing interactions between phytoplankton dynamics, phytoplankton-mediated ecosystem processes and the environment are constantly shaped by a multitude of mechanistic links. Providing nutrients and energy for higher trophic levels is a fundamental ecosystem function of algae in aquatic systems. As both temperature and nutrient availability strongly and interactively influence algal growth (and hence the rate of nutrient uptake), it is a fair assumption that **a long-term rise in temperature can alter phytoplankton-mediated nutrient fluxes**. The problem is that climate change also affects annual temperature patterns, thus, any warming-induced impact is difficult to assess without **seasonality** taken into account, especially in the temperate zone. A further challenge is the **species-specific** nature of algal growth curves along environmental gradients, adding **significant variation** to community-level functional responses. Moreover, despite their undeniable importance, traditional field and experimental studies have limitations that make them inadequate to fully understand changes in ecosystem-level processes. This is where dynamic modelling can become a highly useful tool.
+The ever-changing interactions between phytoplankton dynamics, phytoplankton-mediated ecosystem processes and the environment are constantly shaped by a multitude of mechanistic links. Providing nutrients and energy for higher trophic levels is a fundamental ecosystem function of algae in aquatic systems. As both temperature and nutrient availability strongly and interactively influence algal growth (and hence the rate of nutrient uptake), it is a fair assumption that **a long-term rise in temperature can alter phytoplankton-mediated nutrient fluxes**. The problem is that climate change also affects annual temperature patterns, thus, any warming-induced impact is difficult to assess without **seasonality** taken into account, especially in the temperate zone. A further challenge is the **species-specific** nature of algal growth curves along environmental gradients, adding **significant variation** to community-level functional responses. Moreover, despite their undeniable necessity, traditional field and experimental studies have limitations that make them inadequate to fully understand changes in ecosystem-level processes. This is where dynamic modelling can become a powerful tool.
 
-My study builds on our previous paper using a multispecies, multi-nutrient numerical model ([Pálffy & Smeti, 2024, Limnol. Oceanogr., 69: 1056-1069.](https://doi.org/10.1002/lno.12548)). The model was used to run simulations with randomly assembled phytoplankton communities over an annual cycle, under various nitrogen and phosphorus load combinations at four different annual temperature patterns.
+My study builds on our previous paper using a multispecies, multi-nutrient numerical model ([Pálffy & Smeti, 2024, Limnol. Oceanogr., 69: 1056-1069.](https://doi.org/10.1002/lno.12548)). The model was used to run simulations with randomly assembled phytoplankton communities over an annual cycle, under various nitrogen (N) and phosphorus (P) load combinations at four different annual temperature patterns.
 
 ![Schematic setup of the simulations](/images/Fig_1.jpg){width="90%"}
 
+Instead of focusing solely on compositional shifts or competitive outcomes, the main objective of the simulations was to compute **nutrient uptake dynamics and efficiency**. The motivation behind this approach was to assess whether **warming-induced shifts in growth-related functional traits can be linked to alterations in nutrient uptake**. In this sense, the **minimum resource requirement for growth** (*R\**, the concentration of a nutrient at which growth and mortality are in balance, adding up to zero net growth) can be used as a measure to indicate the level to which a species is able to deplete a specific nutrient.
 
+Based on this idea, my **initial hypothesis** was that as annual mean temperatures increase in the long run, annual nutrient uptake efficiency of the phytoplankton increases, which positively correlates with the rate of compositional shift and negatively with community-weighted R\**. The main findings of the study partially contradicted this hypothesis:
+
+1. **Warming led to more efficient and simultaneously more balanced nutrient uptake of the phytoplankton over the annual cycle.** As expected, this was mostly due to the expansion of the net growth period, with additional influence of the N:P load ratio and compositional shifts.
+
+2. In contrast with the initial hypothesis, **in communities exhibiting high species turnover under warming, increase in nutrient uptake was constrained by higher *R\** during the nutrient-limited summer period**. This outcome warrants further investigation, as it emerges from the characteristics of the applied, literature-derived species-response curves. Establishing whether this phenomenon is similarly common under field conditions would require substantially more research into intra- and interspecific variation in response curves across a range of algal groups.
+
+![Changes in phosphorus uptake efficiency ($\eta_{P}$) versus changes in biovolume-weighted mean minimum resource requirement for phosphorus ($R*_{P}$) in response to +3˚C warming compared with the baseline temperature scenario, during the period of nutrient limitation.](/images/Fig_5.jpg){width="70%"}
+
+3. When nutrient loads were set to fluctuate in the system, **higher fluctuations in nutrient loads enhanced warming-induced increases in uptake efficiency**, independently of shifts in *R\**.
+
+![PCA biplot of Bray-Curtis dissimilarity and changes in mean annual minimum requirements for nitrogen and phosphorus ($R*_{N}$,$R*_{P}$), in annual net growth time ($t_{g}$) and in nitrogen and phosphorus uptake efficiency ($\eta_{N}$,$\eta_{P}$) in respone to +3˚C warming compared with the baseline temperature scenario.](/images/Fig_7.jpg){width="70%"}
+
+**The results imply that the effects of long-term warming on phytoplankton nutrient utptake can be influenced by both the response trait structure of the communities as well as by the ratio and temporal variation of N and P loads. These contrasting impact suggest that the rate of compositional shifts and variations in the environment can have a decisive role in how phytoplankton functioning reacts to long-term climate change.**
+
+It is essential to recognize that the scope of this paper did not include other similarly important factors, e.g. light intensity or top-down control, since a broader set of variables would have substantially weakened the focus of the study.
+
+More information about the study can be found:
+
+* on the Journal of Plankton Research website, [here]()
+* in the unedited version of the accepted paper that can be downloaded here:
+```{=html}
+<div class="mb-3">
+  <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#cvModal">
+    View PDF
+  </button>
+  <a href="/files/Palffy_2026_JPR_unedited.pdf" target="_blank" rel="noopener noreferrer" class="ms-2">
+    (or open in a new tab)
+  </a>
+</div>
+
+<div class="modal fade" id="cvModal" tabindex="-1" aria-labelledby="cvModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-xl modal-fullscreen-sm-down">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="cvModalLabel">CV</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body p-0">
+        <embed src="/files/Palffy_2026_JPR_unedited.pdf" type="application/pdf" style="width:100%; height:80vh;">
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+* in the GitHub repository containing the R codes of the model functions, simulation loops and analyses:
+	[https://github.com/k-palffy/phyto_warming_model.git](https://github.com/k-palffy/phyto_warming_model.git)

@@ -30,6 +30,7 @@ format:
       light: [cosmo, custom.scss]
       dark: darkly
     css: styles.css
+    link-external-newwindow: true
     include-after-body:
       text: |
         <script src="language-switch.js"></script>
