@@ -5,11 +5,11 @@ lang: en
 
 ![](images/profile_pic.jpg){fig-alt="Profile picture" width="50%" fig-align="left"}
 
-I am a researcher interested in freshwater ecology, phytoplankton dynamics and functioning,
-ecological modelling and data science in general. I currently work at the [Balaton Limnological Research Institute](https://www.blki.hun-ren.hu/en).
+I am a researcher interested in freshwater ecology, phytoplankton dynamics and functioning, ecological modelling and data science in general. I currently work at the [Balaton Limnological Research Institute](https://www.blki.hun-ren.hu/en).
 
 See my profile on:
 
+* email: palffy.karoly@blki.hu
 * [my employer's homepage](https://www.blki.hun-ren.hu/en/node/15734)
 * [LinkedIn](https://linkedin.com/in/karoly-palffy-81a82390)
 * [GitHub](https://github.com/k-palffy)

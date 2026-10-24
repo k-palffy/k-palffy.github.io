@@ -5,11 +5,11 @@ categories: [Professional]
 lang: en
 ---
 
-Global warming has become one of the most pressing issues of our era, leading to a tremendous increase in research focused on its anticipated impacts. While a large number of ecological studies report changes in ecosystem/community structure in response to warming, a more crucial question is **what modifications can this long-term trend elicit in ecosystem functions and associated processes**. Temperate shallow lakes are definitely among the systems that are particularly sensitive to these changes.
+Global warming has become one of the most pressing issues of our era, leading to a tremendous increase in research focused on its anticipated impacts. While a large number of ecological studies report changes in ecosystem/community structure in response to warming, a more crucial question is **what modifications can this long-term trend elicit in ecosystem functions and associated processes**. Temperate shallow lakes are definitely among the systems that are particularly sensitive to these changes. In this regard, phytoplankton, as major primary producer of the pelagic zone, warrants close attention.
 
 ![Changes in lake summer surface temperatures from 1985 to 2009. Source: Figure 1 of O'Reilly et al., 2015, Geophys. Res. Lett., 42, 10,773–10,781, doi:[10.1002/2015GL066235](https://doi.org/10.1002/2015GL066235)](/images/oreilly_2015_fig1.jpg){width="80%"}
 
-In my [recent paper](), I had a simple question: if climate change is causing compositional changes and phenological shifts in phytoplakton, what repercussions can be expected in the functioning of these communities? How do phytoplakton respond to these changes in shallow lakes, and how can that affect ecosystem processes?
+In my [recent paper](), I had a seemingly straightforward question: if climate change is causing compositional changes and phenological shifts in phytoplakton, what repercussions can be expected in the functioning of these communities? How do phytoplakton respond to these changes in shallow lakes, and how can that affect ecosystem processes?
 
 The ever-changing interactions between phytoplankton dynamics, phytoplankton-mediated ecosystem processes and the environment are constantly shaped by a multitude of mechanistic links. Providing nutrients and energy for higher trophic levels is a fundamental ecosystem function of algae in aquatic systems. As both temperature and nutrient availability strongly and interactively influence algal growth (and hence the rate of nutrient uptake), it is a fair assumption that **a long-term rise in temperature can alter phytoplankton-mediated nutrient fluxes**. The problem is that climate change also affects annual temperature patterns, thus, any warming-induced impact is difficult to assess without **seasonality** taken into account, especially in the temperate zone. A further challenge is the **species-specific** nature of algal growth curves along environmental gradients, adding **significant variation** to community-level functional responses. Moreover, despite their undeniable necessity, traditional field and experimental studies have limitations that make them inadequate to fully understand changes in ecosystem-level processes. This is where dynamic modelling can become a powerful tool.
 
@@ -19,7 +19,7 @@ My study builds on our previous paper using a multispecies, multi-nutrient numer
 
 Instead of focusing solely on compositional shifts or competitive outcomes, the main objective of the simulations was to compute **nutrient uptake dynamics and efficiency**. The motivation behind this approach was to assess whether **warming-induced shifts in growth-related functional traits can be linked to alterations in nutrient uptake**. In this sense, the **minimum resource requirement for growth** (*R\**, the concentration of a nutrient at which growth and mortality are in balance, adding up to zero net growth) can be used as a measure to indicate the level to which a species is able to deplete a specific nutrient.
 
-Based on this idea, my **initial hypothesis** was that as annual mean temperatures increase in the long run, annual nutrient uptake efficiency of the phytoplankton increases, which positively correlates with the rate of compositional shift and negatively with community-weighted R\**. The main findings of the study partially contradicted this hypothesis:
+Based on this idea, my **initial hypothesis** was that as annual mean temperatures increase in the long run, annual nutrient uptake efficiency of the phytoplankton increases, which positively correlates with the rate of compositional shift and negatively with community-weighted *R\**. The main findings of the study partially contradicted this hypothesis:
 
 1. **Warming led to more efficient and simultaneously more balanced nutrient uptake of the phytoplankton over the annual cycle.** As expected, this was mostly due to the expansion of the net growth period, with additional influence of the N:P load ratio and compositional shifts.
 
@@ -31,7 +31,7 @@ Based on this idea, my **initial hypothesis** was that as annual mean temperatur
 
 ![PCA biplot of Bray-Curtis dissimilarity and changes in mean annual minimum requirements for nitrogen and phosphorus ($R*_{N}$,$R*_{P}$), in annual net growth time ($t_{g}$) and in nitrogen and phosphorus uptake efficiency ($\eta_{N}$,$\eta_{P}$) in respone to +3˚C warming compared with the baseline temperature scenario.](/images/Fig_7.jpg){width="70%"}
 
-**The results imply that the effects of long-term warming on phytoplankton nutrient utptake can be influenced by both the response trait structure of the communities as well as by the ratio and temporal variation of N and P loads. These contrasting impact suggest that the rate of compositional shifts and variations in the environment can have a decisive role in how phytoplankton functioning reacts to long-term climate change.**
+**The results imply that the effects of long-term warming on phytoplankton nutrient utptake can be influenced by both the response trait structure of the communities as well as by the ratio and temporal variation of N and P loads. These contrasting impacts suggest that the rate of compositional shifts and variations in the environment can have a decisive role in how phytoplankton functioning reacts to long-term climate change.**
 
 It is essential to recognize that the scope of this paper did not include other similarly important factors, e.g. light intensity or top-down control, since a broader set of variables would have substantially weakened the focus of the study.
 
@@ -63,6 +63,5 @@ More information about the study can be found:
   </div>
 </div>
 ```
-
 * in the GitHub repository containing the R codes of the model functions, simulation loops and analyses:
 	[https://github.com/k-palffy/phyto_warming_model.git](https://github.com/k-palffy/phyto_warming_model.git)

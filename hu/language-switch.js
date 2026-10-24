@@ -1,15 +1,20 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const links = document.querySelectorAll("a");
-
-  links.forEach(function (link) {
+  document.querySelectorAll("a").forEach(function (link) {
     if (link.textContent.trim() === "English") {
       link.addEventListener("click", function (event) {
         event.preventDefault();
-
-        const path = window.location.pathname;
-        const page = path.substring(path.lastIndexOf("/") + 1) || "index.html";
-
-        window.location.href = "/" + page;
+        const target = window.location.pathname.replace(/^\/hu/, "") || "/";
+        fetch(target, { method: "HEAD" })
+          .then(function (response) {
+            if (response.ok) {
+              window.location.href = target;
+            } else {
+              alert("This page is not available in English.");
+            }
+          })
+          .catch(function () {
+            alert("This page is not available in English.");
+          });
       });
     }
   });

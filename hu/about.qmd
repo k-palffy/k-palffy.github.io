@@ -5,11 +5,11 @@ lang: hu
 
 ![](../images/profile_pic.jpg){fig-alt="Profilkép" width="50%" fig-align="left"}
 
-Édesvízi ökológiával és ökológiai modellezéssel
-foglalkozó kutató vagyok. Jelenleg a [Balatoni Limnológiai Kutatóintézetben](https://www.blki.hun-ren.hu) dolgozom.
+Édesvízi ökológiával és ökológiai modellezéssel foglalkozó kutató vagyok. Jelenleg a [Balatoni Limnológiai Kutatóintézetben](https://www.blki.hun-ren.hu) dolgozom.
 
 Elérhetőségeim:
 
+* email: palffy.karoly@blki.hu
 * [munkahelyem honlapján](https://www.blki.hun-ren.hu/node/15734)
 * [LinkedIn](https://linkedin.com/in/karoly-palffy-81a82390)
 * [GitHub](https://github.com/k-palffy)

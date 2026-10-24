@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - language-switch.js
 
 website:
   title: "Pálffy Károly weboldala"
@@ -26,4 +28,4 @@ format:
     link-external-newwindow: true
     include-after-body:
       text: |
-        <script src="language-switch.js"></script>
+        <script src="/hu/language-switch.js"></script>
