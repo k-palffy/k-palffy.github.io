@@ -33,4 +33,4 @@ format:
     link-external-newwindow: true
     include-after-body:
       text: |
-        <script src="language-switch.js"></script>
+        <script src="/language-switch.js?v=3"></script>

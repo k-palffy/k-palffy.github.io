@@ -1,13 +1,18 @@
 document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll("a").forEach(function (link) {
-    if (link.textContent.trim() === "English") {
-      link.addEventListener("click", function (event) {
+  const target = window.location.pathname.replace(/^\/hu/, "") || "/";
+  document.querySelectorAll("a.nav-link").forEach(function (link) {
+    if (link.textContent.trim() !== "English") return;
+    link.setAttribute("href", target);
+    link.removeAttribute("target");
+    link.addEventListener(
+      "click",
+      function (event) {
         event.preventDefault();
-        const target = window.location.pathname.replace(/^\/hu/, "") || "/";
+        event.stopImmediatePropagation();
         fetch(target, { method: "HEAD" })
-          .then(function (response) {
-            if (response.ok) {
-              window.location.href = target;
+          .then(function (r) {
+            if (r.ok) {
+              window.location.assign(target);
             } else {
               alert("This page is not available in English.");
             }
@@ -15,7 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
           .catch(function () {
             alert("This page is not available in English.");
           });
-      });
-    }
+      },
+      true
+    );
   });
 });

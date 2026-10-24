@@ -1,13 +1,18 @@
 document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll("a").forEach(function (link) {
-    if (link.textContent.trim() === "Magyar") {
-      link.addEventListener("click", function (event) {
+  const target = "/hu" + window.location.pathname;
+  document.querySelectorAll("a.nav-link").forEach(function (link) {
+    if (link.textContent.trim() !== "Magyar") return;
+    link.setAttribute("href", target);
+    link.removeAttribute("target");
+    link.addEventListener(
+      "click",
+      function (event) {
         event.preventDefault();
-        const target = "/hu" + window.location.pathname;
+        event.stopImmediatePropagation();
         fetch(target, { method: "HEAD" })
-          .then(function (response) {
-            if (response.ok) {
-              window.location.href = target;
+          .then(function (r) {
+            if (r.ok) {
+              window.location.assign(target);
             } else {
               alert("Ez az oldal nem érhető el magyarul.");
             }
@@ -15,7 +20,8 @@ document.addEventListener("DOMContentLoaded", function () {
           .catch(function () {
             alert("Ez az oldal nem érhető el magyarul.");
           });
-      });
-    }
+      },
+      true
+    );
   });
 });

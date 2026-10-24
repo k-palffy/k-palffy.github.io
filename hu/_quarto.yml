@@ -17,7 +17,7 @@ website:
 
     right:
       - text: "English"
-        href: "#"
+        href: "https://k-palffy.github.io/"
 
 format:
   html:
@@ -28,4 +28,4 @@ format:
     link-external-newwindow: true
     include-after-body:
       text: |
-        <script src="/hu/language-switch.js"></script>
+        <script src="/language-switch.js?v=3"></script>
