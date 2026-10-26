@@ -17,7 +17,7 @@ Contacts and profiles:
 * [ORCID](https://orcid.org/0000-0003-2015-7972)
 * [ResearchGate](https://www.researchgate.net/profile/Karoly-Palffy)
 
-...and a hobby: [photography](https://www.flickr.com/people/203685175@N03/)
+Other activities: [photography](https://www.flickr.com/people/203685175@N03/)
 
 ```{=html}
 <div class="mb-3">
