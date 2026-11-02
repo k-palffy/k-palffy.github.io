@@ -26,6 +26,9 @@ website:
         
 format:
   html:
+    include-in-header:
+      - text: |
+      <meta name="google-site-verification" content="Au-0H8VmN1OU1jh569UbNGuKDTVjgEzeA8fAGqH-Ryw" />
     theme:
       light: [cosmo, custom.scss]
       dark: darkly
