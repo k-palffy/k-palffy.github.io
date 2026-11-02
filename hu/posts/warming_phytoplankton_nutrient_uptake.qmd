@@ -1,6 +1,6 @@
 ---
 title: "Hogyan hat a hosszútávú felmelegedés a fitoplankton működésére sekély tavakban? - Modell szimulációk továbbgondolva"
-date: 2026-10-20
+date: 2026-11-02
 categories: [Szakmai]
 lang: hu
 ---
@@ -9,7 +9,7 @@ A globális felmelegedés korunk egyik legsürgetőbb problémája, évről évr
 
 ![Tavak nyári felszíni vízhőmérsékletének változása 1985 és 2009 között. Forrás: O'Reilly et al., 2015, Geophys. Res. Lett., 42, 10,773–10,781, doi:[10.1002/2015GL066235](https://doi.org/10.1002/2015GL066235)](/images/oreilly_2015_fig1.jpg){width="80%"}
 
-[Legújabb cikkem]() egy látszólag egyszerű kérdésből indul ki: ha a klímaváltozás összetételbeli és fenológiai változásokat okoz a fitoplanktonban, milyen következmények várhatók ezen közösségek működésében? Hogyan reagál a fitoplankton ezekre a változásokra sekély tavakban, és ez hogy és milyen mértékben hat ki az ökoszisztéma folyamatokra?
+[Legújabb cikkem](https://doi.org/10.1093/plankt/fbag084) egy látszólag egyszerű kérdésből indul ki: ha a klímaváltozás összetételbeli és fenológiai változásokat okoz a fitoplanktonban, milyen következmények várhatók ezen közösségek működésében? Hogyan reagál a fitoplankton ezekre a változásokra sekély tavakban, és ez hogy és milyen mértékben hat ki az ökoszisztéma folyamatokra?
 
 Az algák egyik kulcsfontosságú ökológiai funkciója a szerves anyagban kötött tápanyagok és energia biztosítása fogyasztóik számára. Mivel mind a hőmérséklet, mind a szervetlen tápanyagok mennyisége kölcsönösen kihat az algák biomassza gyarapodására (és ezáltal a tápanyagfelvételükre is), feltételezhető, hogy **a hőmérséklet hossszútávú emelkedése módosíthatja a fitoplankton működéséhez kötődő tápanyafluxusokat**. Ennek feltárása azonban komoly kihívás, többek között azért, mert a klímaváltozással a hőmérséklet éves mintázata is módosul. Így bármilyen felmelegedés okozta, ökoszisztéma szintű hatás a szezonalitás figyelembe vétele nélkül nehezen mérhető fel, különösen igaz ez a mérsékelt éghajlati övre. További nehézséget okoz, hogy a különböző környezeti gradiensek mentén realizálódó **funkcionális válaszok**, mint például a szaporodási ráta változása **fajspecifikusak**, ami **jelentős varianciát eredményez a közösségi szintű válaszreakciók vonatkozásában**. Ezen felül az egyébként nélkülözhetetlen, hagyományos terepi és kísérletes megközelítések értelmezhetőségi korlátaik miatt nem elegendők az ökoszisztémákban zajló folyamak teljes körű megértéséhez. Ezen a ponton válhatnak az un. dinamikus vagy folyamatmodellek hatékony kutatási eszközzé.
 
@@ -39,14 +39,16 @@ Fontos leszögezni, hogy a tanulmányban szereplő számítások nem térnek ki 
 
 További információ a cikkel kapcsolatban:
 
-* a Journal of Plankton Research honlapján, [itt]()
-* a cikk szerzői (a megjelenttel tartalmilag azonos) verziójában, ami innen letölthető:
+* a Journal of Plankton Research honlapján, [itt](https://doi.org/10.1093/plankt/fbag084)  
+(Károly Pálffy (2026): Contrasting effects of compositional shifts and resource fluctuations on phytoplankton nutrient uptake under warming, Journal of Plankton Research 48(6) fbag084)
+* a cikk szerzői (a megjelenttel tartalmilag azonos) verziójában, ami innen letölthető:  
+
 ```{=html}
 <div class="mb-3">
   <button type="button" class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#cvModal">
     PDF megtekintése
   </button>
-  <a href="/files/Palffy_2026_JPR_unedited.pdf" target="_blank" rel="noopener noreferrer" class="ms-2">
+  <a href="/files/Palffy_2026_J_Plankton_Res_unedited.pdf" target="_blank" rel="noopener noreferrer" class="ms-2">
     (megnyitás új ablakban)
   </a>
 </div>
@@ -59,7 +61,7 @@ További információ a cikkel kapcsolatban:
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body p-0">
-        <embed src="/files/Palffy_2026_JPR_unedited.pdf" type="application/pdf" style="width:100%; height:80vh;">
+        <embed src="/files/Palffy_2026_J_Plankton_Res_unedited.pdf" type="application/pdf" style="width:100%; height:80vh;">
       </div>
     </div>
   </div>

@@ -5,7 +5,7 @@ lang: hu
 
 ![](../images/profile_pic.jpg){fig-alt="Profilkép" width="50%" fig-align="left"}
 
-Édesvízi ökológiával és ökológiai modellezéssel foglalkozó kutató vagyok. Jelenleg a [Balatoni Limnológiai Kutatóintézetben](https://www.blki.hun-ren.hu) dolgozom.
+Édesvízi ökológiával, fitoplanktonnal és ökológiai modellezéssel foglalkozó kutató vagyok. Jelenleg a [Balatoni Limnológiai Kutatóintézetben](https://www.blki.hun-ren.hu) dolgozom.
 
 Elérhetőségeim:
 
