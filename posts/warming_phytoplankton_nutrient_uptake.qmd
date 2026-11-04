@@ -35,11 +35,11 @@ Based on this idea, my **initial hypothesis** was that as annual mean temperatur
 
 2. In contrast with the initial hypothesis, **in communities exhibiting high species turnover under warming, increase in nutrient uptake was constrained by higher *R\** during the nutrient-limited summer period**. This outcome warrants further investigation, as it emerges from the characteristics of the applied, literature-derived species-response curves. Establishing whether this phenomenon is similarly common under field conditions would require substantially more research into intra- and interspecific variation in response curves across a range of algal groups.
 
-![Changes in phosphorus uptake efficiency ($\eta_{P}$) versus changes in biovolume-weighted mean minimum resource requirement for phosphorus ($R*_{P}$) in response to +3˚C warming compared with the baseline temperature scenario, during the period of nutrient limitation.](/images/Fig_5.jpg){width="70%"}
+![Changes in phosphorus uptake efficiency ($\eta_{P}$) versus changes in biovolume-weighted mean minimum resource requirement for phosphorus ($R*_{P}$) in response to +3˚C warming compared with the baseline temperature scenario, during the period of nutrient limitation.](/images/Fig_5.jpg){width="60%"}
 
 3. When nutrient loads were set to fluctuate in the system, **higher fluctuations in nutrient loads enhanced warming-induced increases in uptake efficiency**, independently of shifts in *R\**.
 
-![PCA biplot of Bray-Curtis dissimilarity and changes in mean annual minimum requirements for nitrogen and phosphorus ($R*_{N}$,$R*_{P}$), in annual net growth time ($t_{g}$) and in nitrogen and phosphorus uptake efficiency ($\eta_{N}$,$\eta_{P}$) in respone to +3˚C warming compared with the baseline temperature scenario.](/images/Fig_7.jpg){width="70%"}
+![PCA biplot of Bray-Curtis dissimilarity and changes in mean annual minimum requirements for nitrogen and phosphorus ($R*_{N}$,$R*_{P}$), in annual net growth time ($t_{g}$) and in nitrogen and phosphorus uptake efficiency ($\eta_{N}$,$\eta_{P}$) in respone to +3˚C warming compared with the baseline temperature scenario.](/images/Fig_7.jpg){width="60%"}
 
 **The results imply that the effects of long-term warming on phytoplankton nutrient utptake can be influenced by both the response trait structure of the communities as well as by the ratio and temporal variation of N and P loads. These contrasting impacts suggest that the rate of compositional shifts and variations in the environment can have a decisive role in how phytoplankton functioning reacts to long-term climate change.**
 
