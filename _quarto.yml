@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - language-switch.js
+    - robots.txt
     - files/Karoly_Palffy_CV.pdf
   render:
     - "*.qmd"
@@ -10,6 +11,12 @@ project:
 
 website:
   title: "Károly Pálffy's website"
+  site-url: "https://k-palffy.github.io"
+  open-graph:
+    locale: en_US
+    site-name: "Károly Pálffy"
+    image: "https://k-palffy.github.io/images/lake-balaton-dusk.jpg"
+  twitter-card: true
 
   navbar:
     left:
@@ -22,10 +29,11 @@ website:
     
     right:
       - text: "Magyar"
-        href: "#"
+        href: "/hu/"
         
 format:
   html:
+    canonical-url: true
     theme:
       light: [cosmo, custom.scss]
       dark: darkly

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://k-palffy.github.io/sitemap.xml
+Sitemap: https://k-palffy.github.io/hu/sitemap.xml

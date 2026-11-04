@@ -5,6 +5,12 @@ project:
 
 website:
   title: "Pálffy Károly weboldala"
+  site-url: "https://k-palffy.github.io/hu"
+  open-graph:
+    locale: hu_HU
+    site-name: "Pálffy Károly"
+    image: "https://k-palffy.github.io/images/lake-balaton-dusk.jpg"
+  twitter-card: true  
 
   navbar:
     left:
@@ -21,6 +27,7 @@ website:
 
 format:
   html:
+    canonical-url: true
     theme:
       light: [cosmo, custom.scss]
       dark: darkly

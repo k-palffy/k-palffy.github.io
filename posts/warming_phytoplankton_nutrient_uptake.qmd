@@ -3,6 +3,14 @@ title: "What is the impact of long-term warming on phytoplankton functioning in 
 date: 2026-11-02
 categories: [Professional]
 lang: en
+pagetitle: "Global warming and phytoplankton functioning in model simulations"
+description: "A dynamic modelling study on how long-term warming changes nutrient uptake by phytoplankton in shallow lakes, and what drives the response."
+image: "https://k-palffy.github.io/images/Fig_2_snippet.jpg"
+include-in-header:
+  text: |
+    <link rel="alternate" hreflang="en" href="https://k-palffy.github.io/posts/warming_phytoplankton_nutrient_uptake.html">
+    <link rel="alternate" hreflang="hu" href="https://k-palffy.github.io/hu/posts/warming_phytoplankton_nutrient_uptake.html">
+    <link rel="alternate" hreflang="x-default" href="https://k-palffy.github.io/posts/warming_phytoplankton_nutrient_uptake.html">
 ---
 
 Global warming has become one of the most pressing issues of our era, leading to a tremendous increase in research focused on its anticipated ecological impacts. While a large number of ecological studies report changes in ecosystem/community structure in response to warming, a more crucial question is **what modifications can this long-term trend elicit in ecosystem functions and associated processes**. Temperate shallow lakes are definitely among the systems that are particularly sensitive to these changes. In this regard, phytoplankton, as major primary producer of the pelagic zone, warrants close attention.

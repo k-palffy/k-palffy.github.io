@@ -3,6 +3,14 @@ title: "Hogyan hat a hosszútávú felmelegedés a fitoplankton működésére s
 date: 2026-11-02
 categories: [Szakmai]
 lang: hu
+pagetitle: "Globális felmelegedés és a fitoplankton működése modellszimulációkban"
+description: "Hogyan változtatja meg a hosszú távú felmelegedés a fitoplankton tápanyagfelvételét sekély tavakban? Hogy függ ez össze a fajösszetétel változásával? Modellszimulációk eredményei."
+image: "https://k-palffy.github.io/images/Fig_2_snippet.jpg"
+include-in-header:
+  text: |
+    <link rel="alternate" hreflang="en" href="https://k-palffy.github.io/posts/warming_phytoplankton_nutrient_uptake.html">
+    <link rel="alternate" hreflang="hu" href="https://k-palffy.github.io/hu/posts/warming_phytoplankton_nutrient_uptake.html">
+    <link rel="alternate" hreflang="x-default" href="https://k-palffy.github.io/posts/warming_phytoplankton_nutrient_uptake.html">
 ---
 
 A globális felmelegedés korunk egyik legsürgetőbb problémája, évről évre egyre több tanulmány foglalkozik a jelenség ökoszisztémákra gyakorolt hatásának vizsgálatával. Míg a kutatások jelentős része a közösségek összetételében zajló változásokra fókuszál, továbbra is rengeteg a megválaszolatlan kérdés azzal kapcsolatban, hogy **a klíma megváltozása milyen módon hat az ökoszisztémák működésére és az azokhoz kapcsolódó folyamatokra**. A mérsékelt öv sekély tavai (így pl. a Balaton is) egyértelműen azok közé a rendszerek közé tartoznak, amelyek különösen érzékenyek az éghajlatban mutatkozó változásokra. E tekintetben a nyíltvízi élettér legfontosabb elsődleges termelőinek, a planktonikus algáknak a szerepe is figyelmet érdemel.

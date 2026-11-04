@@ -1,6 +1,13 @@
 ---
 title: "About me"
 lang: en
+pagetitle: "Károly Pálffy, PhD, Balaton Limnological Research Institute"
+description: "Károly Pálffy, researcher at the Balaton Limnological Research Institute: contact details and academic profiles."
+include-in-header:
+  text: |
+    <link rel="alternate" hreflang="en" href="https://k-palffy.github.io/about.html">
+    <link rel="alternate" hreflang="hu" href="https://k-palffy.github.io/hu/about.html">
+    <link rel="alternate" hreflang="x-default" href="https://k-palffy.github.io/about.html">
 ---
 
 ![](images/profile_pic.jpg){fig-alt="Profile picture" width="50%" fig-align="left"}

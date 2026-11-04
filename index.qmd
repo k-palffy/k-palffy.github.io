@@ -1,5 +1,12 @@
 ---
 lang: en
+pagetitle: "Károly Pálffy – aquatic ecology and modelling"
+description: "Károly Pálffy is an aquatic ecologist with an environmental engineering background at the Balaton Limnological Research Institute, working on plankton dynamics and ecological modelling."
+include-in-header:
+  text: |
+    <link rel="alternate" hreflang="en" href="https://k-palffy.github.io/index.html">
+    <link rel="alternate" hreflang="hu" href="https://k-palffy.github.io/hu/index.html">
+    <link rel="alternate" hreflang="x-default" href="https://k-palffy.github.io/index.html">
 ---
 
 ![](images/lake-balaton-dusk.jpg){fig-alt="Lake Balaton at dusk"}

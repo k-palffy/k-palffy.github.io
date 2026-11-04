@@ -1,5 +1,12 @@
 ---
 lang: hu
+pagetitle: "Pálffy Károly – vízi ökológia és modellezés"
+description: "Pálffy Károly vízi ökológiával foglalkozó környezetmérnök, a Balatoni Limnológiai Kutatóintézet kutatója. Fő kutatási területei a plankton dinamika és az  ökológiai modellezés."
+include-in-header:
+  text: |
+    <link rel="alternate" hreflang="en" href="https://k-palffy.github.io/index.html">
+    <link rel="alternate" hreflang="hu" href="https://k-palffy.github.io/hu/index.html">
+    <link rel="alternate" hreflang="x-default" href="https://k-palffy.github.io/index.html">
 ---
 
 ![](../images/lake-balaton-dusk.jpg){fig-alt="A Balaton alkonyatkor"}
