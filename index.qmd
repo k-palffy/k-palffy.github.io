@@ -1,7 +1,7 @@
 ---
 lang: en
 pagetitle: "Károly Pálffy – aquatic ecology and modelling"
-description: "Károly Pálffy is an aquatic ecologist with an environmental engineering background at the Balaton Limnological Research Institute, working on plankton dynamics and ecological modelling."
+description-meta: "Károly Pálffy is an aquatic ecologist with an environmental engineering background at the Balaton Limnological Research Institute, working on plankton dynamics and ecological modelling."
 include-in-header:
   text: |
     <meta name="google-site-verification" content="Au-0H8VmN1OU1jh569UbNGuKDTVjgEzeA8fAGqH-Ryw" />

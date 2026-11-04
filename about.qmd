@@ -2,7 +2,7 @@
 title: "About me"
 lang: en
 pagetitle: "Károly Pálffy, PhD, Balaton Limnological Research Institute"
-description: "Károly Pálffy, researcher at the Balaton Limnological Research Institute: contact details and academic profiles."
+description-meta: "Károly Pálffy, researcher at the Balaton Limnological Research Institute: contact details and academic profiles."
 include-in-header:
   text: |
     <link rel="alternate" hreflang="en" href="https://k-palffy.github.io/about.html">

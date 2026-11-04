@@ -4,7 +4,7 @@ date: 2026-11-02
 categories: [Professional]
 lang: en
 pagetitle: "Global warming and phytoplankton functioning in model simulations"
-description: "A dynamic modelling study on how long-term warming changes nutrient uptake by phytoplankton in shallow lakes, and what drives the response."
+description-meta: "A dynamic modelling study on how long-term warming changes nutrient uptake by phytoplankton in shallow lakes, and what drives the response."
 image: "https://k-palffy.github.io/images/Fig_2_snippet.jpg"
 include-in-header:
   text: |

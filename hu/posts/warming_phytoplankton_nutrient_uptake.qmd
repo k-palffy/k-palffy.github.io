@@ -4,7 +4,7 @@ date: 2026-11-02
 categories: [Szakmai]
 lang: hu
 pagetitle: "Globális felmelegedés és a fitoplankton működése modellszimulációkban"
-description: "Hogyan változtatja meg a hosszú távú felmelegedés a fitoplankton tápanyagfelvételét sekély tavakban? Hogy függ ez össze a fajösszetétel változásával? Modellszimulációk eredményei."
+description-meta: "Hogyan változtatja meg a hosszú távú felmelegedés a fitoplankton tápanyagfelvételét sekély tavakban? Hogy függ ez össze a fajösszetétel változásával? Modellszimulációk eredményei."
 image: "https://k-palffy.github.io/images/Fig_2_snippet.jpg"
 include-in-header:
   text: |

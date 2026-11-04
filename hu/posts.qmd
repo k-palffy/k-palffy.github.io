@@ -1,7 +1,7 @@
 ---
 title: "Posztok"
 lang: hu
-description: "Posztok az ökológia, a fitoplankton és az ökológiai modellezés témakörében."
+description-meta: "Posztok az ökológia, a fitoplankton és az ökológiai modellezés témakörében."
 listing:
   contents: posts
   type: table

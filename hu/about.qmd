@@ -2,7 +2,7 @@
 title: "Rólam"
 lang: hu
 pagetitle: "dr. Pálffy Károly, Balatoni Limnológiai Kutatóintézet"
-description: "Pálffy Károly, a Balatoni Limnológiai Kutatóintézet kutatója: elérhetőségek és szakmai profilok."
+description-meta: "Pálffy Károly, a Balatoni Limnológiai Kutatóintézet kutatója: elérhetőségek és szakmai profilok."
 include-in-header:
   text: |
     <link rel="alternate" hreflang="en" href="https://k-palffy.github.io/about.html">
