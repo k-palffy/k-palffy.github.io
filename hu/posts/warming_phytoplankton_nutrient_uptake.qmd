@@ -31,7 +31,7 @@ Ezen a jelleg-működés kapcsolaton alapulva a kutatás **kezdeti hipotéziséb
 
 1. **A felmelegedés hatására éves szinten kiegyenlítettebbé vált a fitoplankton tápanyagfelvétele és nőtt annak hatékonysága.** A vártaknak megfelelően ez elsősorban a nettó növekedési periódus kiszélesedésének volt köszönhető, azonban a hatás mértékét a szervetlen N és P utánpótlás aránya (N:P) és az összetétel változása is befolyásolta.
 
-![Fitoplankton közösségek nitrogénfelvételének szezonális változása különböző tápanyag utánpótlási arány (N:P) és hőmérsékleti forgatókönyvek mellett futtatott szimulációkban.](/images/Fig_2_snippet.jpg){width="70%"}
+![Fitoplankton közösségek nitrogénfelvételének szezonális változása különböző tápanyag utánpótlási arány (N:P) és hőmérsékleti forgatókönyvek mellett futtatott szimulációkban.](/images/Fig_2_snippet.jpg){width="85%"}
 
 2. A hipotézissel ellentétben, **azokban a közösségekben, ahol a magasabb átlaghőmérséklet okozta fajkicserélődés nagymértékű volt, a tápanyagfelvétel növekménye mérséklődött, ami egybeesett a súlyozott *R\** növekedésével**. Ez az összefüggés különösen a tápanyag-limitált nyári időszakban vált jelentőssé. Az eredmény további kérdéseket is felvet, mivel a modell fajspecifikus paramétereinek becslése szakirodalmi adatok felhasználásával történt, és e tekintetben még jelentős az ismerethiány. Annak megállapításához, hogy a kimutatott jelenség mennyire lehet gyakori természetes körülmények között, szükséges volna megérteni, hogy a környezeti változókra adott fajszintű válaszreakciók tekintetében különböző algacsoportokban mekkora inter- és intraspecifikus varianciával számolhatunk.
 

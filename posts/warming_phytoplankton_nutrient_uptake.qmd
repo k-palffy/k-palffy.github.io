@@ -31,7 +31,7 @@ Based on this idea, my **initial hypothesis** was that as annual mean temperatur
 
 1. **Warming led to more efficient and simultaneously more balanced nutrient uptake of the phytoplankton over the annual cycle.** As expected, this was mostly due to the expansion of the net growth period, with additional influence of the N:P load ratio and compositional shifts.
 
-![Seasonal changes in nitrogen uptake of phytoplankton communities in simulations run at different nutrient load ratios (N:P) and temperature scenarios.](/images/Fig_2_snippet.jpg){width="70%"}
+![Seasonal changes in nitrogen uptake of phytoplankton communities in simulations run at different nutrient load ratios (N:P) and temperature scenarios.](/images/Fig_2_snippet.jpg){width="85%"}
 
 2. In contrast with the initial hypothesis, **in communities exhibiting high species turnover under warming, increase in nutrient uptake was constrained by higher *R\** during the nutrient-limited summer period**. This outcome warrants further investigation, as it emerges from the characteristics of the applied, literature-derived species-response curves. Establishing whether this phenomenon is similarly common under field conditions would require substantially more research into intra- and interspecific variation in response curves across a range of algal groups.
 
